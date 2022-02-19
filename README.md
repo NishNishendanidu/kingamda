@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="<a href="https://ibb.co/Km84jZg"><img src="https://i.ibb.co/Km84jZg/VYCjwSM.jpg" alt="VYCjwSM" border="0"></a>" width="300" height="300">
+  <img src="<a href="https://ibb.co/Km84jZg"><img src="https://i.ibb.co/Km84jZg/VYCjwSM.jpg" alt="VYCjwSM" 
   <h1>👸💎 QUEEN AMDI BOT 💎👸</h1>
 </div>
 <p align="center">
