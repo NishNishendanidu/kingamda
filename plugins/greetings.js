@@ -1,9 +1,9 @@
-/* Copyright (C) 2021 Queen Amdi.
+/* no Copyright (C) 2021  king amda-X
 
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 
-Queen Amdi - Black Amda
+king amda-X- nishen danidu
 */
 
 const Amdi = require('../events');
