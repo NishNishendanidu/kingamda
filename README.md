@@ -1,6 +1,6 @@
 <div align="center">
   <img src="<a href="<a href="https://ibb.co/pKFG567"><img src="https://i.ibb.co/pKFG567/King-amda-x.jpg" alt="King-amda-x" border="0"></a>" 
-  <h1>👸💎 QUEEN AMDI BOT 💎👸</h1>
+  <h1 💫king amda-X whatsApp user bot⚡⚡</h1>
 </div>
 <p align="center">
     Makes it easy and fun to use WhatsApp. It is also the first Sinhala user bot for WhatsApp.
